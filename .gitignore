@@ -1,0 +1,7 @@
+*.info
+obj/
+ShaderCache/
+metadata/
+temp/
+*.DS_Store
+*.log

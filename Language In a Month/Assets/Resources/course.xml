@@ -1,0 +1,28 @@
+ <Course id="Дойч для русских">
+	<Lesson id="1">
+		<Screen id ="1" cards="6">
+			<Card text="Der Mann" translit="Дер Ман" translation="мужик" image="img/a0000045956.jpg" audio1="audio1/010101.ogg" audio2="audio2/010101.ogg"/>
+			<Card text="Die Frau" translit="Ди Фрау" translation="баба" image="img/a0000742546.jpg" audio1="audio1/010102.ogg" audio2="audio2/010102.ogg"/>
+			<Card text="Der Junge" translit="Дер Юнге" translation="пацан" image="img/a0000710845.jpg" audio1="audio1/010103.ogg" audio2="audio2/010103.ogg"/>
+			<Card text="Das Mädchen" translit="Дас Мадхен" translation="девка" image="img/a0000043031.jpg" audio1="audio1/010104.ogg" audio2="audio2/010104.ogg"/>
+			<Card text="Der Affe" translit="Дер Аф" translation="обезян" image="img/l0000010105.jpg" audio1="audio1/010105.ogg" audio2="audio2/010105.ogg"/>
+			<Card text="Die Giraffe" translit="Ди Жираф" translation="мужик" image="img/l0000010106.jpg" audio1="audio1/010106.ogg" audio2="audio2/010106.ogg"/>
+		</Screen>
+		<Screen id ="2" cards="4">
+			<Card text="Der Mann" translit="Дер Ман" translation="мужик" image="img/a0000045956.jpg" audio1="audio1/010101.ogg" audio2="audio2/010101.ogg"/>
+			<Card text="Die Frau" translit="Ди Фрау" translation="баба" image="img/a0000742546.jpg" audio1="audio1/010102.ogg" audio2="audio2/010102.ogg"/>
+			<Card text="Der Junge" translit="Дер Юнге" translation="пацан" image="img/a0000710845.jpg" audio1="audio1/010103.ogg" audio2="audio2/010103.ogg"/>
+			<Card text="Das Mädchen" translit="Дас Мадхен" translation="девка" image="img/a0000043031.jpg" audio1="audio1/010104.ogg" audio2="audio2/010104.ogg"/>
+		</Screen>
+	</Lesson>
+	<Lesson id="2">
+		<Screen id ="1" cards="2">
+			<Card text="Der Mann" translit="Дер Ман" translation="мужик" image="img/a0000045956.jpg" audio1="audio1/010101.ogg" audio2="audio2/010101.ogg"/>
+			<Card text="Die Frau" translit="Ди Фрау" translation="баба" image="img/a0000742546.jpg" audio1="audio1/010102.ogg" audio2="audio2/010102.ogg"/>
+		</Screen>	
+		<Screen id ="2" cards="2">
+			<Card text="Der Mann" translit="Дер Ман" translation="мужик" image="img/a0000045956.jpg" audio1="audio1/010101.ogg" audio2="audio2/010101.ogg"/>
+			<Card text="Die Frau" translit="Ди Фрау" translation="баба" image="img/a0000742546.jpg" audio1="audio1/010102.ogg" audio2="audio2/010102.ogg"/>
+		</Screen>
+	</Lesson>
+</Course>
